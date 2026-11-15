@@ -58,3 +58,8 @@ Projekt stworzony na prywatne potrzeby edukacyjne. Słownictwo i kod są edytowa
 - Dodano numer wersji i sprawdzanie aktualizacji.
 
 Historyczne wyniki pozostają zapisane lokalnie; niezgodne niedokończone misje mogą zostać wyczyszczone.
+
+
+## v1.2.0 – trzy etapy
+
+Odkrywca: 18/25. Ekspert: 21/25. Mistrz: 22/25 oraz 18 poprawnych za pierwszym razem bez podpowiedzi. Krainy odblokowujemy od nowa; historia, wyniki, punkty i naklejki zostają zachowane. Dodano rozgrzewkę 10 pytań i preferencje dostępności.
