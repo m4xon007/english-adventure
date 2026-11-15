@@ -1,4 +1,4 @@
-# English Adventure – Misja 25 🦄 — v1.1.0
+# English Adventure – Misja 25 🦄 — v1.2.1
 
 Gra edukacyjna PWA dla dzieci uczących się angielskiego (klasy 1–3), zoptymalizowana dla dzieci z co najmniej rokiem nauki.
 
@@ -63,3 +63,8 @@ Historyczne wyniki pozostają zapisane lokalnie; niezgodne niedokończone misje 
 ## v1.2.0 – trzy etapy
 
 Odkrywca: 18/25. Ekspert: 21/25. Mistrz: 22/25 oraz 18 poprawnych za pierwszym razem bez podpowiedzi. Krainy odblokowujemy od nowa; historia, wyniki, punkty i naklejki zostają zachowane. Dodano rozgrzewkę 10 pytań i preferencje dostępności.
+
+
+## v1.2.1 — Wielki Sprawdzian
+
+Każda kraina ma cztery etapy: Odkrywca (18/25), Ekspert (21/25), Mistrz Krainy (22/25 i 18 bez błędu) oraz Wielki Sprawdzian (22/25 i 18 bez błędu za pierwszym razem, bez podpowiedzi). Sprawdzian dobiera 25 różnych słów ze słownika danej krainy, preferując zadania pisowni, słuchania i zdań. Dopiero zaliczenie sprawdzianu odblokowuje kolejną krainę. Profile, stare wyniki, naklejki i ukończone etapy 1–3 pozostają zachowane; przy 3/4 gracz przechodzi do sprawdzianu.
