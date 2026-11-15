@@ -1,10 +1,10 @@
-# English Adventure – Misja 25 🦄
+# English Adventure – Misja 25 🦄 — v1.1.0
 
 Gra edukacyjna PWA dla dzieci uczących się angielskiego (klasy 1–3), zoptymalizowana dla dzieci z co najmniej rokiem nauki.
 
 ## Funkcje
 - 12 bohaterów do wyboru, osobne profile, poziom klasy 1/2/3.
-- 10 odblokowywanych krain tematycznych, 320 słówek w pliku `vocabulary.json`.
+- 10 odblokowywanych krain tematycznych, 379 słówek w pliku `vocabulary.json`.
 - Misje po 25 zadań; 2 próby na pytanie; 3 podpowiedzi na misję.
 - Typy: EN→PL, PL→EN, brakująca litera, układanie liter, rozpoznawanie obrazka, wybór obrazka, słuchanie (gdy urządzenie obsługuje), uzupełnianie zdania.
 - Punkty 10/5/3/0, naklejki, ranking lokalny, nagroda rodzicielska +5 minut grania na tablecie (raz na dzień i profil).
@@ -47,3 +47,14 @@ Po pierwszym pełnym otwarciu online PWA buforuje pliki (service worker). Kolejn
 
 ## Licencja
 Projekt stworzony na prywatne potrzeby edukacyjne. Słownictwo i kod są edytowalne.
+
+## Aktualizacja v1.1.0
+- Dostosowano 379 słówek do klas 1–3.
+- Zadania z obrazkiem wymagają odpowiedzi po angielsku.
+- Dodano polskie znaczenie w zadaniach z brakującą literą.
+- Dodano odsłuch do każdego pytania.
+- Zadania zdaniowe mają przygotowane przykłady.
+- Ograniczono losowanie do słownictwa wybranej klasy.
+- Dodano numer wersji i sprawdzanie aktualizacji.
+
+Historyczne wyniki pozostają zapisane lokalnie; niezgodne niedokończone misje mogą zostać wyczyszczone.

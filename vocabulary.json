@@ -1,2562 +1,2655 @@
 [
   {
-    "id": "forest-butterfly",
-    "en": "butterfly",
-    "pl": "motyl",
-    "world": "forest",
+    "id": "forest-rabbit",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "rabbit",
+    "pl": "królik"
+  },
+  {
+    "id": "forest-butterfly",
+    "grade": 1,
+    "world": "forest",
+    "en": "butterfly",
+    "pl": "motyl"
   },
   {
     "id": "forest-squirrel",
-    "en": "squirrel",
-    "pl": "wiewiórka",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "squirrel",
+    "pl": "wiewiórka"
   },
   {
     "id": "forest-hedgehog",
-    "en": "hedgehog",
-    "pl": "jeż",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "hedgehog",
+    "pl": "jeż"
   },
   {
     "id": "forest-turtle",
-    "en": "turtle",
-    "pl": "żółw",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "turtle",
+    "pl": "żółw"
   },
   {
     "id": "forest-dolphin",
-    "en": "dolphin",
-    "pl": "delfin",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "dolphin",
+    "pl": "delfin"
   },
   {
     "id": "forest-whale",
-    "en": "whale",
-    "pl": "wieloryb",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "whale",
+    "pl": "wieloryb"
   },
   {
     "id": "forest-penguin",
-    "en": "penguin",
-    "pl": "pingwin",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "penguin",
+    "pl": "pingwin"
   },
   {
     "id": "forest-parrot",
-    "en": "parrot",
-    "pl": "papuga",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "parrot",
+    "pl": "papuga"
   },
   {
     "id": "forest-crocodile",
-    "en": "crocodile",
-    "pl": "krokodyl",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "crocodile",
+    "pl": "krokodyl"
   },
   {
     "id": "forest-giraffe",
+    "grade": 1,
+    "world": "forest",
     "en": "giraffe",
-    "pl": "żyrafa",
-    "world": "forest",
-    "grade": 1,
-    "category": "forest"
-  },
-  {
-    "id": "forest-rabbit",
-    "en": "rabbit",
-    "pl": "królik",
-    "world": "forest",
-    "grade": 1,
-    "category": "forest"
+    "pl": "żyrafa"
   },
   {
     "id": "forest-hamster",
-    "en": "hamster",
-    "pl": "chomik",
-    "world": "forest",
     "grade": 1,
-    "category": "forest"
+    "world": "forest",
+    "en": "hamster",
+    "pl": "chomik"
   },
   {
     "id": "forest-spider",
+    "grade": 1,
+    "world": "forest",
     "en": "spider",
-    "pl": "pająk",
-    "world": "forest",
-    "grade": 2,
-    "category": "forest"
+    "pl": "pająk"
   },
   {
-    "id": "forest-insect",
-    "en": "insect",
-    "pl": "owad",
+    "id": "forest-bee",
+    "grade": 1,
     "world": "forest",
-    "grade": 2,
-    "category": "forest"
+    "en": "bee",
+    "pl": "pszczoła"
   },
   {
-    "id": "forest-feathers",
-    "en": "feathers",
-    "pl": "pióra",
+    "id": "forest-ant",
+    "grade": 1,
     "world": "forest",
-    "grade": 2,
-    "category": "forest"
+    "en": "ant",
+    "pl": "mrówka"
   },
   {
-    "id": "forest-wings",
-    "en": "wings",
-    "pl": "skrzydła",
+    "id": "forest-duck",
+    "grade": 1,
     "world": "forest",
-    "grade": 2,
-    "category": "forest"
+    "en": "duck",
+    "pl": "kaczka"
+  },
+  {
+    "id": "forest-frog",
+    "grade": 1,
+    "world": "forest",
+    "en": "frog",
+    "pl": "żaba"
+  },
+  {
+    "id": "forest-horse",
+    "grade": 1,
+    "world": "forest",
+    "en": "horse",
+    "pl": "koń"
+  },
+  {
+    "id": "forest-sheep",
+    "grade": 1,
+    "world": "forest",
+    "en": "sheep",
+    "pl": "owca"
+  },
+  {
+    "id": "forest-mouse",
+    "grade": 1,
+    "world": "forest",
+    "en": "mouse",
+    "pl": "mysz"
+  },
+  {
+    "id": "forest-fox",
+    "grade": 1,
+    "world": "forest",
+    "en": "fox",
+    "pl": "lis"
+  },
+  {
+    "id": "forest-bear",
+    "grade": 1,
+    "world": "forest",
+    "en": "bear",
+    "pl": "niedźwiedź"
   },
   {
     "id": "forest-forest",
-    "en": "forest",
-    "pl": "las",
+    "grade": 1,
     "world": "forest",
-    "grade": 2,
-    "category": "forest"
+    "en": "forest",
+    "pl": "las"
   },
   {
     "id": "forest-river",
-    "en": "river",
-    "pl": "rzeka",
+    "grade": 1,
     "world": "forest",
-    "grade": 2,
-    "category": "forest"
+    "en": "river",
+    "pl": "rzeka"
   },
   {
     "id": "forest-mountain",
-    "en": "mountain",
-    "pl": "góra",
+    "grade": 1,
     "world": "forest",
+    "en": "mountain",
+    "pl": "góra"
+  },
+  {
+    "id": "forest-feathers",
     "grade": 2,
-    "category": "forest"
+    "world": "forest",
+    "en": "feathers",
+    "pl": "pióra"
+  },
+  {
+    "id": "forest-wings",
+    "grade": 2,
+    "world": "forest",
+    "en": "wings",
+    "pl": "skrzydła"
+  },
+  {
+    "id": "forest-insect",
+    "grade": 2,
+    "world": "forest",
+    "en": "insect",
+    "pl": "owad"
   },
   {
     "id": "forest-island",
+    "grade": 2,
+    "world": "forest",
     "en": "island",
-    "pl": "wyspa",
-    "world": "forest",
-    "grade": 2,
-    "category": "forest"
+    "pl": "wyspa"
   },
   {
-    "id": "forest-waterfall",
-    "en": "waterfall",
-    "pl": "wodospad",
-    "world": "forest",
+    "id": "forest-farm",
     "grade": 2,
-    "category": "forest"
+    "world": "forest",
+    "en": "farm",
+    "pl": "gospodarstwo"
   },
   {
-    "id": "forest-dangerous",
-    "en": "dangerous",
-    "pl": "niebezpieczny",
-    "world": "forest",
+    "id": "forest-wild",
     "grade": 2,
-    "category": "forest"
+    "world": "forest",
+    "en": "wild",
+    "pl": "dziki"
   },
   {
     "id": "forest-friendly",
-    "en": "friendly",
-    "pl": "przyjazny",
-    "world": "forest",
     "grade": 2,
-    "category": "forest"
+    "world": "forest",
+    "en": "friendly",
+    "pl": "przyjazny"
   },
   {
     "id": "forest-noisy",
-    "en": "noisy",
-    "pl": "hałaśliwy",
-    "world": "forest",
     "grade": 2,
-    "category": "forest"
+    "world": "forest",
+    "en": "noisy",
+    "pl": "hałaśliwy"
   },
   {
     "id": "forest-quiet",
+    "grade": 3,
+    "world": "forest",
     "en": "quiet",
-    "pl": "cichy",
-    "world": "forest",
-    "grade": 3,
-    "category": "forest"
-  },
-  {
-    "id": "forest-enormous",
-    "en": "enormous",
-    "pl": "ogromny",
-    "world": "forest",
-    "grade": 3,
-    "category": "forest"
+    "pl": "cichy"
   },
   {
     "id": "forest-tiny",
-    "en": "tiny",
-    "pl": "malutki",
-    "world": "forest",
     "grade": 3,
-    "category": "forest"
+    "world": "forest",
+    "en": "tiny",
+    "pl": "malutki"
   },
   {
     "id": "forest-clever",
+    "grade": 3,
+    "world": "forest",
     "en": "clever",
-    "pl": "sprytny",
-    "world": "forest",
-    "grade": 3,
-    "category": "forest"
+    "pl": "sprytny"
   },
   {
-    "id": "forest-curious",
-    "en": "curious",
-    "pl": "ciekawski",
-    "world": "forest",
+    "id": "forest-dangerous",
     "grade": 3,
-    "category": "forest"
+    "world": "forest",
+    "en": "dangerous",
+    "pl": "niebezpieczny"
   },
   {
-    "id": "forest-wildlife",
-    "en": "wildlife",
-    "pl": "dzikie zwierzęta",
-    "world": "forest",
+    "id": "forest-waterfall",
     "grade": 3,
-    "category": "forest"
-  },
-  {
-    "id": "forest-habitat",
-    "en": "habitat",
-    "pl": "siedlisko",
     "world": "forest",
-    "grade": 3,
-    "category": "forest"
-  },
-  {
-    "id": "forest-environment",
-    "en": "environment",
-    "pl": "środowisko",
-    "world": "forest",
-    "grade": 3,
-    "category": "forest"
+    "en": "waterfall",
+    "pl": "wodospad"
   },
   {
     "id": "food-breakfast",
-    "en": "breakfast",
-    "pl": "śniadanie",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "breakfast",
+    "pl": "śniadanie"
   },
   {
     "id": "food-lunch",
-    "en": "lunch",
-    "pl": "obiad",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "lunch",
+    "pl": "obiad"
   },
   {
     "id": "food-dinner",
-    "en": "dinner",
-    "pl": "kolacja",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "dinner",
+    "pl": "kolacja"
   },
   {
     "id": "food-sandwich",
-    "en": "sandwich",
-    "pl": "kanapka",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "sandwich",
+    "pl": "kanapka"
   },
   {
     "id": "food-pancake",
-    "en": "pancake",
-    "pl": "naleśnik",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "pancake",
+    "pl": "naleśnik"
   },
   {
     "id": "food-cheese",
-    "en": "cheese",
-    "pl": "ser",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "cheese",
+    "pl": "ser"
   },
   {
     "id": "food-yoghurt",
-    "en": "yoghurt",
-    "pl": "jogurt",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "yoghurt",
+    "pl": "jogurt"
   },
   {
     "id": "food-strawberry",
-    "en": "strawberry",
-    "pl": "truskawka",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "strawberry",
+    "pl": "truskawka"
   },
   {
     "id": "food-blueberry",
-    "en": "blueberry",
-    "pl": "borówka",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "blueberry",
+    "pl": "jagoda"
   },
   {
     "id": "food-pineapple",
-    "en": "pineapple",
-    "pl": "ananas",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "pineapple",
+    "pl": "ananas"
   },
   {
     "id": "food-cucumber",
-    "en": "cucumber",
-    "pl": "ogórek",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "cucumber",
+    "pl": "ogórek"
   },
   {
     "id": "food-carrot",
-    "en": "carrot",
-    "pl": "marchewka",
-    "world": "food",
     "grade": 1,
-    "category": "food"
+    "world": "food",
+    "en": "carrot",
+    "pl": "marchewka"
   },
   {
     "id": "food-potato",
-    "en": "potato",
-    "pl": "ziemniak",
+    "grade": 1,
     "world": "food",
-    "grade": 2,
-    "category": "food"
+    "en": "potato",
+    "pl": "ziemniak"
   },
   {
     "id": "food-tomato",
-    "en": "tomato",
-    "pl": "pomidor",
+    "grade": 1,
     "world": "food",
-    "grade": 2,
-    "category": "food"
+    "en": "tomato",
+    "pl": "pomidor"
   },
   {
     "id": "food-mushroom",
-    "en": "mushroom",
-    "pl": "grzyb",
+    "grade": 1,
     "world": "food",
-    "grade": 2,
-    "category": "food"
+    "en": "mushroom",
+    "pl": "grzyb"
   },
   {
     "id": "food-watermelon",
-    "en": "watermelon",
-    "pl": "arbuz",
+    "grade": 1,
     "world": "food",
-    "grade": 2,
-    "category": "food"
+    "en": "watermelon",
+    "pl": "arbuz"
   },
   {
     "id": "food-lemonade",
-    "en": "lemonade",
-    "pl": "lemoniada",
+    "grade": 1,
     "world": "food",
-    "grade": 2,
-    "category": "food"
+    "en": "lemonade",
+    "pl": "lemoniada"
+  },
+  {
+    "id": "food-bread",
+    "grade": 1,
+    "world": "food",
+    "en": "bread",
+    "pl": "chleb"
+  },
+  {
+    "id": "food-butter",
+    "grade": 1,
+    "world": "food",
+    "en": "butter",
+    "pl": "masło"
+  },
+  {
+    "id": "food-egg",
+    "grade": 1,
+    "world": "food",
+    "en": "egg",
+    "pl": "jajko"
+  },
+  {
+    "id": "food-soup",
+    "grade": 1,
+    "world": "food",
+    "en": "soup",
+    "pl": "zupa"
+  },
+  {
+    "id": "food-rice",
+    "grade": 1,
+    "world": "food",
+    "en": "rice",
+    "pl": "ryż"
+  },
+  {
+    "id": "food-milk",
+    "grade": 1,
+    "world": "food",
+    "en": "milk",
+    "pl": "mleko"
+  },
+  {
+    "id": "food-banana",
+    "grade": 1,
+    "world": "food",
+    "en": "banana",
+    "pl": "banan"
+  },
+  {
+    "id": "food-orange",
+    "grade": 1,
+    "world": "food",
+    "en": "orange",
+    "pl": "pomarańcza"
   },
   {
     "id": "food-thirsty",
-    "en": "thirsty",
-    "pl": "spragniony",
-    "world": "food",
     "grade": 2,
-    "category": "food"
+    "world": "food",
+    "en": "thirsty",
+    "pl": "spragniony"
   },
   {
     "id": "food-hungry",
-    "en": "hungry",
-    "pl": "głodny",
-    "world": "food",
     "grade": 2,
-    "category": "food"
+    "world": "food",
+    "en": "hungry",
+    "pl": "głodny"
   },
   {
     "id": "food-delicious",
+    "grade": 2,
+    "world": "food",
     "en": "delicious",
-    "pl": "pyszny",
-    "world": "food",
-    "grade": 2,
-    "category": "food"
-  },
-  {
-    "id": "food-spicy",
-    "en": "spicy",
-    "pl": "pikantny",
-    "world": "food",
-    "grade": 2,
-    "category": "food"
+    "pl": "pyszny"
   },
   {
     "id": "food-sweet",
+    "grade": 2,
+    "world": "food",
     "en": "sweet",
-    "pl": "słodki",
-    "world": "food",
+    "pl": "słodki"
+  },
+  {
+    "id": "food-salty",
     "grade": 2,
-    "category": "food"
+    "world": "food",
+    "en": "salty",
+    "pl": "słony"
   },
   {
-    "id": "food-sour",
-    "en": "sour",
-    "pl": "kwaśny",
-    "world": "food",
+    "id": "food-salad",
     "grade": 2,
-    "category": "food"
+    "world": "food",
+    "en": "salad",
+    "pl": "sałatka"
   },
   {
-    "id": "food-bitter",
-    "en": "bitter",
-    "pl": "gorzki",
-    "world": "food",
+    "id": "food-juice",
     "grade": 2,
-    "category": "food"
+    "world": "food",
+    "en": "juice",
+    "pl": "sok"
   },
   {
-    "id": "food-recipe",
-    "en": "recipe",
-    "pl": "przepis",
+    "id": "food-cereal",
+    "grade": 2,
     "world": "food",
-    "grade": 3,
-    "category": "food"
-  },
-  {
-    "id": "food-ingredient",
-    "en": "ingredient",
-    "pl": "składnik",
-    "world": "food",
-    "grade": 3,
-    "category": "food"
+    "en": "cereal",
+    "pl": "płatki śniadaniowe"
   },
   {
     "id": "food-restaurant",
-    "en": "restaurant",
-    "pl": "restauracja",
-    "world": "food",
     "grade": 3,
-    "category": "food"
+    "world": "food",
+    "en": "restaurant",
+    "pl": "restauracja"
   },
   {
     "id": "food-waiter",
-    "en": "waiter",
-    "pl": "kelner",
-    "world": "food",
     "grade": 3,
-    "category": "food"
+    "world": "food",
+    "en": "waiter",
+    "pl": "kelner"
   },
   {
     "id": "food-dessert",
-    "en": "dessert",
-    "pl": "deser",
-    "world": "food",
     "grade": 3,
-    "category": "food"
+    "world": "food",
+    "en": "dessert",
+    "pl": "deser"
   },
   {
     "id": "food-vegetables",
-    "en": "vegetables",
-    "pl": "warzywa",
-    "world": "food",
     "grade": 3,
-    "category": "food"
+    "world": "food",
+    "en": "vegetables",
+    "pl": "warzywa"
   },
   {
     "id": "food-healthy",
+    "grade": 3,
+    "world": "food",
     "en": "healthy",
-    "pl": "zdrowy",
-    "world": "food",
-    "grade": 3,
-    "category": "food"
-  },
-  {
-    "id": "food-favourite",
-    "en": "favourite",
-    "pl": "ulubiony",
-    "world": "food",
-    "grade": 3,
-    "category": "food"
+    "pl": "zdrowy"
   },
   {
     "id": "school-classroom",
-    "en": "classroom",
-    "pl": "sala lekcyjna",
-    "world": "school",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "classroom",
+    "pl": "sala lekcyjna"
   },
   {
     "id": "school-playground",
+    "grade": 1,
+    "world": "school",
     "en": "playground",
-    "pl": "plac zabaw",
-    "world": "school",
-    "grade": 1,
-    "category": "school"
-  },
-  {
-    "id": "school-timetable",
-    "en": "timetable",
-    "pl": "plan lekcji",
-    "world": "school",
-    "grade": 1,
-    "category": "school"
+    "pl": "plac zabaw"
   },
   {
     "id": "school-homework",
-    "en": "homework",
-    "pl": "praca domowa",
-    "world": "school",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "homework",
+    "pl": "praca domowa"
   },
   {
     "id": "school-notebook",
+    "grade": 1,
+    "world": "school",
     "en": "notebook",
-    "pl": "zeszyt",
-    "world": "school",
-    "grade": 1,
-    "category": "school"
-  },
-  {
-    "id": "school-pencilcase",
-    "en": "pencilcase",
-    "pl": "piórnik",
-    "world": "school",
-    "grade": 1,
-    "category": "school"
+    "pl": "zeszyt"
   },
   {
     "id": "school-ruler",
-    "en": "ruler",
-    "pl": "linijka",
-    "world": "school",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "ruler",
+    "pl": "linijka"
   },
   {
     "id": "school-rubber",
-    "en": "rubber",
-    "pl": "gumka",
-    "world": "school",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "rubber",
+    "pl": "gumka do mazania"
   },
   {
     "id": "school-scissors",
-    "en": "scissors",
-    "pl": "nożyczki",
-    "world": "school",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "scissors",
+    "pl": "nożyczki"
   },
   {
     "id": "school-backpack",
-    "en": "backpack",
-    "pl": "plecak",
-    "world": "school",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "backpack",
+    "pl": "plecak"
   },
   {
     "id": "school-library",
+    "grade": 1,
+    "world": "school",
     "en": "library",
-    "pl": "biblioteka",
-    "world": "school",
+    "pl": "biblioteka"
+  },
+  {
+    "id": "school-pencil",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "pencil",
+    "pl": "ołówek"
   },
   {
-    "id": "school-subject",
-    "en": "subject",
-    "pl": "przedmiot szkolny",
-    "world": "school",
+    "id": "school-pen",
     "grade": 1,
-    "category": "school"
+    "world": "school",
+    "en": "pen",
+    "pl": "długopis"
   },
   {
-    "id": "school-lesson",
-    "en": "lesson",
-    "pl": "lekcja",
+    "id": "school-book",
+    "grade": 1,
     "world": "school",
-    "grade": 2,
-    "category": "school"
+    "en": "book",
+    "pl": "książka"
   },
   {
-    "id": "school-break",
-    "en": "break",
-    "pl": "przerwa",
+    "id": "school-desk",
+    "grade": 1,
     "world": "school",
-    "grade": 2,
-    "category": "school"
+    "en": "desk",
+    "pl": "biurko"
+  },
+  {
+    "id": "school-chair",
+    "grade": 1,
+    "world": "school",
+    "en": "chair",
+    "pl": "krzesło"
   },
   {
     "id": "school-teacher",
-    "en": "teacher",
-    "pl": "nauczyciel",
+    "grade": 1,
     "world": "school",
-    "grade": 2,
-    "category": "school"
+    "en": "teacher",
+    "pl": "nauczyciel"
   },
   {
     "id": "school-student",
-    "en": "student",
-    "pl": "uczeń",
+    "grade": 1,
     "world": "school",
-    "grade": 2,
-    "category": "school"
+    "en": "student",
+    "pl": "uczeń"
   },
   {
-    "id": "school-answer",
-    "en": "answer",
-    "pl": "odpowiedź",
+    "id": "school-lesson",
+    "grade": 1,
     "world": "school",
-    "grade": 2,
-    "category": "school"
+    "en": "lesson",
+    "pl": "lekcja"
+  },
+  {
+    "id": "school-break",
+    "grade": 1,
+    "world": "school",
+    "en": "break",
+    "pl": "przerwa"
   },
   {
     "id": "school-question",
+    "grade": 1,
+    "world": "school",
     "en": "question",
-    "pl": "pytanie",
+    "pl": "pytanie"
+  },
+  {
+    "id": "school-answer",
+    "grade": 1,
     "world": "school",
+    "en": "answer",
+    "pl": "odpowiedź"
+  },
+  {
+    "id": "school-school",
+    "grade": 1,
+    "world": "school",
+    "en": "school",
+    "pl": "szkoła"
+  },
+  {
+    "id": "school-draw",
+    "grade": 1,
+    "world": "school",
+    "en": "draw",
+    "pl": "rysować"
+  },
+  {
+    "id": "school-read",
+    "grade": 1,
+    "world": "school",
+    "en": "read",
+    "pl": "czytać"
+  },
+  {
+    "id": "school-write",
+    "grade": 1,
+    "world": "school",
+    "en": "write",
+    "pl": "pisać"
+  },
+  {
+    "id": "school-count",
+    "grade": 1,
+    "world": "school",
+    "en": "count",
+    "pl": "liczyć"
+  },
+  {
+    "id": "school-subject",
     "grade": 2,
-    "category": "school"
+    "world": "school",
+    "en": "subject",
+    "pl": "przedmiot szkolny"
   },
   {
-    "id": "school-practise",
-    "en": "practise",
-    "pl": "ćwiczyć",
-    "world": "school",
+    "id": "school-timetable",
     "grade": 2,
-    "category": "school"
-  },
-  {
-    "id": "school-remember",
-    "en": "remember",
-    "pl": "pamiętać",
     "world": "school",
-    "grade": 2,
-    "category": "school"
-  },
-  {
-    "id": "school-explain",
-    "en": "explain",
-    "pl": "wyjaśniać",
-    "world": "school",
-    "grade": 2,
-    "category": "school"
-  },
-  {
-    "id": "school-difficult",
-    "en": "difficult",
-    "pl": "trudny",
-    "world": "school",
-    "grade": 2,
-    "category": "school"
-  },
-  {
-    "id": "school-easy",
-    "en": "easy",
-    "pl": "łatwy",
-    "world": "school",
-    "grade": 2,
-    "category": "school"
-  },
-  {
-    "id": "school-interesting",
-    "en": "interesting",
-    "pl": "interesujący",
-    "world": "school",
-    "grade": 2,
-    "category": "school"
-  },
-  {
-    "id": "school-careful",
-    "en": "careful",
-    "pl": "ostrożny",
-    "world": "school",
-    "grade": 3,
-    "category": "school"
-  },
-  {
-    "id": "school-mistake",
-    "en": "mistake",
-    "pl": "błąd",
-    "world": "school",
-    "grade": 3,
-    "category": "school"
+    "en": "timetable",
+    "pl": "plan lekcji"
   },
   {
     "id": "school-dictionary",
-    "en": "dictionary",
-    "pl": "słownik",
+    "grade": 2,
     "world": "school",
-    "grade": 3,
-    "category": "school"
+    "en": "dictionary",
+    "pl": "słownik"
   },
   {
     "id": "school-exercise",
-    "en": "exercise",
-    "pl": "ćwiczenie",
+    "grade": 2,
     "world": "school",
+    "en": "exercise",
+    "pl": "ćwiczenie"
+  },
+  {
+    "id": "school-difficult",
+    "grade": 2,
+    "world": "school",
+    "en": "difficult",
+    "pl": "trudny"
+  },
+  {
+    "id": "school-easy",
+    "grade": 2,
+    "world": "school",
+    "en": "easy",
+    "pl": "łatwy"
+  },
+  {
+    "id": "school-remember",
+    "grade": 2,
+    "world": "school",
+    "en": "remember",
+    "pl": "pamiętać"
+  },
+  {
+    "id": "school-pencil-case",
+    "grade": 2,
+    "world": "school",
+    "en": "pencil case",
+    "pl": "piórnik"
+  },
+  {
+    "id": "school-careful",
     "grade": 3,
-    "category": "school"
+    "world": "school",
+    "en": "careful",
+    "pl": "ostrożny"
+  },
+  {
+    "id": "school-mistake",
+    "grade": 3,
+    "world": "school",
+    "en": "mistake",
+    "pl": "błąd"
   },
   {
     "id": "school-project",
+    "grade": 3,
+    "world": "school",
     "en": "project",
-    "pl": "projekt",
-    "world": "school",
-    "grade": 3,
-    "category": "school"
+    "pl": "projekt"
   },
   {
-    "id": "school-experiment",
-    "en": "experiment",
-    "pl": "eksperyment",
-    "world": "school",
+    "id": "school-practise",
     "grade": 3,
-    "category": "school"
+    "world": "school",
+    "en": "practise",
+    "pl": "ćwiczyć"
   },
   {
-    "id": "school-knowledge",
-    "en": "knowledge",
-    "pl": "wiedza",
-    "world": "school",
+    "id": "school-explain",
     "grade": 3,
-    "category": "school"
-  },
-  {
-    "id": "school-education",
-    "en": "education",
-    "pl": "edukacja",
     "world": "school",
-    "grade": 3,
-    "category": "school"
+    "en": "explain",
+    "pl": "wyjaśniać"
   },
   {
     "id": "home-bedroom",
-    "en": "bedroom",
-    "pl": "sypialnia",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "bedroom",
+    "pl": "sypialnia"
   },
   {
     "id": "home-bathroom",
-    "en": "bathroom",
-    "pl": "łazienka",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "bathroom",
+    "pl": "łazienka"
   },
   {
     "id": "home-kitchen",
-    "en": "kitchen",
-    "pl": "kuchnia",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "kitchen",
+    "pl": "kuchnia"
   },
   {
     "id": "home-living-room",
-    "en": "living room",
-    "pl": "salon",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "living room",
+    "pl": "salon"
   },
   {
     "id": "home-garden",
-    "en": "garden",
-    "pl": "ogród",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "garden",
+    "pl": "ogród"
   },
   {
     "id": "home-balcony",
-    "en": "balcony",
-    "pl": "balkon",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "balcony",
+    "pl": "balkon"
   },
   {
     "id": "home-stairs",
+    "grade": 1,
+    "world": "home",
     "en": "stairs",
-    "pl": "schody",
-    "world": "home",
-    "grade": 1,
-    "category": "home"
-  },
-  {
-    "id": "home-ceiling",
-    "en": "ceiling",
-    "pl": "sufit",
-    "world": "home",
-    "grade": 1,
-    "category": "home"
+    "pl": "schody"
   },
   {
     "id": "home-floor",
-    "en": "floor",
-    "pl": "podłoga",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "floor",
+    "pl": "podłoga"
   },
   {
     "id": "home-wardrobe",
-    "en": "wardrobe",
-    "pl": "szafa",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "wardrobe",
+    "pl": "szafa"
   },
   {
     "id": "home-cupboard",
-    "en": "cupboard",
-    "pl": "szafka",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "cupboard",
+    "pl": "szafka"
   },
   {
     "id": "home-mirror",
-    "en": "mirror",
-    "pl": "lustro",
-    "world": "home",
     "grade": 1,
-    "category": "home"
+    "world": "home",
+    "en": "mirror",
+    "pl": "lustro"
   },
   {
     "id": "home-pillow",
-    "en": "pillow",
-    "pl": "poduszka",
+    "grade": 1,
     "world": "home",
-    "grade": 2,
-    "category": "home"
+    "en": "pillow",
+    "pl": "poduszka"
   },
   {
     "id": "home-blanket",
+    "grade": 1,
+    "world": "home",
     "en": "blanket",
-    "pl": "koc",
-    "world": "home",
-    "grade": 2,
-    "category": "home"
-  },
-  {
-    "id": "home-curtain",
-    "en": "curtain",
-    "pl": "zasłona",
-    "world": "home",
-    "grade": 2,
-    "category": "home"
+    "pl": "koc"
   },
   {
     "id": "home-armchair",
-    "en": "armchair",
-    "pl": "fotel",
+    "grade": 1,
     "world": "home",
-    "grade": 2,
-    "category": "home"
+    "en": "armchair",
+    "pl": "fotel"
   },
   {
     "id": "home-carpet",
-    "en": "carpet",
-    "pl": "dywan",
+    "grade": 1,
     "world": "home",
-    "grade": 2,
-    "category": "home"
+    "en": "carpet",
+    "pl": "dywan"
   },
   {
     "id": "home-fridge",
-    "en": "fridge",
-    "pl": "lodówka",
+    "grade": 1,
     "world": "home",
-    "grade": 2,
-    "category": "home"
+    "en": "fridge",
+    "pl": "lodówka"
+  },
+  {
+    "id": "home-table",
+    "grade": 1,
+    "world": "home",
+    "en": "table",
+    "pl": "stół"
+  },
+  {
+    "id": "home-bed",
+    "grade": 1,
+    "world": "home",
+    "en": "bed",
+    "pl": "łóżko"
+  },
+  {
+    "id": "home-window",
+    "grade": 1,
+    "world": "home",
+    "en": "window",
+    "pl": "okno"
+  },
+  {
+    "id": "home-door",
+    "grade": 1,
+    "world": "home",
+    "en": "door",
+    "pl": "drzwi"
+  },
+  {
+    "id": "home-sofa",
+    "grade": 1,
+    "world": "home",
+    "en": "sofa",
+    "pl": "kanapa"
+  },
+  {
+    "id": "home-lamp",
+    "grade": 1,
+    "world": "home",
+    "en": "lamp",
+    "pl": "lampa"
+  },
+  {
+    "id": "home-family",
+    "grade": 1,
+    "world": "home",
+    "en": "family",
+    "pl": "rodzina"
+  },
+  {
+    "id": "home-mother",
+    "grade": 1,
+    "world": "home",
+    "en": "mother",
+    "pl": "mama"
+  },
+  {
+    "id": "home-father",
+    "grade": 1,
+    "world": "home",
+    "en": "father",
+    "pl": "tata"
   },
   {
     "id": "home-washing-machine",
-    "en": "washing machine",
-    "pl": "pralka",
-    "world": "home",
     "grade": 2,
-    "category": "home"
+    "world": "home",
+    "en": "washing machine",
+    "pl": "pralka"
   },
   {
     "id": "home-dishwasher",
-    "en": "dishwasher",
-    "pl": "zmywarka",
-    "world": "home",
     "grade": 2,
-    "category": "home"
+    "world": "home",
+    "en": "dishwasher",
+    "pl": "zmywarka"
   },
   {
     "id": "home-tidy",
-    "en": "tidy",
-    "pl": "porządkować",
-    "world": "home",
     "grade": 2,
-    "category": "home"
+    "world": "home",
+    "en": "tidy",
+    "pl": "posprzątany"
   },
   {
     "id": "home-messy",
+    "grade": 2,
+    "world": "home",
     "en": "messy",
-    "pl": "nieporządny",
-    "world": "home",
-    "grade": 2,
-    "category": "home"
-  },
-  {
-    "id": "home-comfortable",
-    "en": "comfortable",
-    "pl": "wygodny",
-    "world": "home",
-    "grade": 2,
-    "category": "home"
-  },
-  {
-    "id": "home-neighbour",
-    "en": "neighbour",
-    "pl": "sąsiad",
-    "world": "home",
-    "grade": 2,
-    "category": "home"
+    "pl": "nieporządny"
   },
   {
     "id": "home-cousin",
-    "en": "cousin",
-    "pl": "kuzyn",
+    "grade": 2,
     "world": "home",
-    "grade": 3,
-    "category": "home"
+    "en": "cousin",
+    "pl": "kuzyn lub kuzynka"
   },
   {
     "id": "home-grandparents",
-    "en": "grandparents",
-    "pl": "dziadkowie",
+    "grade": 2,
     "world": "home",
-    "grade": 3,
-    "category": "home"
+    "en": "grandparents",
+    "pl": "dziadkowie"
   },
   {
-    "id": "home-relatives",
-    "en": "relatives",
-    "pl": "krewni",
+    "id": "home-neighbour",
+    "grade": 2,
     "world": "home",
+    "en": "neighbour",
+    "pl": "sąsiad"
+  },
+  {
+    "id": "home-curtain",
+    "grade": 2,
+    "world": "home",
+    "en": "curtain",
+    "pl": "zasłona"
+  },
+  {
+    "id": "home-comfortable",
     "grade": 3,
-    "category": "home"
+    "world": "home",
+    "en": "comfortable",
+    "pl": "wygodny"
   },
   {
     "id": "home-furniture",
+    "grade": 3,
+    "world": "home",
     "en": "furniture",
-    "pl": "meble",
-    "world": "home",
-    "grade": 3,
-    "category": "home"
+    "pl": "meble"
   },
   {
-    "id": "home-household",
-    "en": "household",
-    "pl": "gospodarstwo domowe",
-    "world": "home",
+    "id": "home-upstairs",
     "grade": 3,
-    "category": "home"
+    "world": "home",
+    "en": "upstairs",
+    "pl": "na piętrze"
   },
   {
-    "id": "home-responsibility",
-    "en": "responsibility",
-    "pl": "odpowiedzialność",
-    "world": "home",
+    "id": "home-downstairs",
     "grade": 3,
-    "category": "home"
-  },
-  {
-    "id": "home-apartment",
-    "en": "apartment",
-    "pl": "mieszkanie",
     "world": "home",
-    "grade": 3,
-    "category": "home"
+    "en": "downstairs",
+    "pl": "na dole"
   },
   {
     "id": "home-basement",
-    "en": "basement",
-    "pl": "piwnica",
-    "world": "home",
     "grade": 3,
-    "category": "home"
+    "world": "home",
+    "en": "basement",
+    "pl": "piwnica"
   },
   {
     "id": "sports-swimming",
-    "en": "swimming",
-    "pl": "pływanie",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "swimming",
+    "pl": "pływanie"
   },
   {
     "id": "sports-cycling",
-    "en": "cycling",
-    "pl": "jazda na rowerze",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "cycling",
+    "pl": "jazda na rowerze"
   },
   {
     "id": "sports-running",
-    "en": "running",
-    "pl": "bieganie",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "running",
+    "pl": "bieganie"
   },
   {
     "id": "sports-jumping",
-    "en": "jumping",
-    "pl": "skakanie",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "jumping",
+    "pl": "skakanie"
   },
   {
     "id": "sports-dancing",
-    "en": "dancing",
-    "pl": "taniec",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "dancing",
+    "pl": "tańczenie"
   },
   {
     "id": "sports-climbing",
-    "en": "climbing",
-    "pl": "wspinaczka",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "climbing",
+    "pl": "wspinaczka"
   },
   {
     "id": "sports-skating",
-    "en": "skating",
-    "pl": "jazda na łyżwach",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "skating",
+    "pl": "jazda na łyżwach"
   },
   {
     "id": "sports-skiing",
-    "en": "skiing",
-    "pl": "narciarstwo",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "skiing",
+    "pl": "narciarstwo"
   },
   {
     "id": "sports-gymnastics",
-    "en": "gymnastics",
-    "pl": "gimnastyka",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "gymnastics",
+    "pl": "gimnastyka"
   },
   {
     "id": "sports-football",
-    "en": "football",
-    "pl": "piłka nożna",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "football",
+    "pl": "piłka nożna"
   },
   {
     "id": "sports-basketball",
-    "en": "basketball",
-    "pl": "koszykówka",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "basketball",
+    "pl": "koszykówka"
   },
   {
     "id": "sports-volleyball",
-    "en": "volleyball",
-    "pl": "siatkówka",
-    "world": "sports",
     "grade": 1,
-    "category": "sports"
+    "world": "sports",
+    "en": "volleyball",
+    "pl": "siatkówka"
   },
   {
     "id": "sports-tennis",
-    "en": "tennis",
-    "pl": "tenis",
+    "grade": 1,
     "world": "sports",
-    "grade": 2,
-    "category": "sports"
+    "en": "tennis",
+    "pl": "tenis"
+  },
+  {
+    "id": "sports-ball",
+    "grade": 1,
+    "world": "sports",
+    "en": "ball",
+    "pl": "piłka"
+  },
+  {
+    "id": "sports-bike",
+    "grade": 1,
+    "world": "sports",
+    "en": "bike",
+    "pl": "rower"
+  },
+  {
+    "id": "sports-helmet",
+    "grade": 1,
+    "world": "sports",
+    "en": "helmet",
+    "pl": "kask"
+  },
+  {
+    "id": "sports-shoes",
+    "grade": 1,
+    "world": "sports",
+    "en": "shoes",
+    "pl": "buty"
+  },
+  {
+    "id": "sports-game",
+    "grade": 1,
+    "world": "sports",
+    "en": "game",
+    "pl": "gra"
+  },
+  {
+    "id": "sports-play",
+    "grade": 1,
+    "world": "sports",
+    "en": "play",
+    "pl": "bawić się"
+  },
+  {
+    "id": "sports-walk",
+    "grade": 1,
+    "world": "sports",
+    "en": "walk",
+    "pl": "spacerować"
+  },
+  {
+    "id": "sports-swim",
+    "grade": 1,
+    "world": "sports",
+    "en": "swim",
+    "pl": "pływać"
+  },
+  {
+    "id": "sports-jump",
+    "grade": 1,
+    "world": "sports",
+    "en": "jump",
+    "pl": "skakać"
+  },
+  {
+    "id": "sports-team",
+    "grade": 1,
+    "world": "sports",
+    "en": "team",
+    "pl": "drużyna"
+  },
+  {
+    "id": "sports-win",
+    "grade": 1,
+    "world": "sports",
+    "en": "win",
+    "pl": "wygrać"
+  },
+  {
+    "id": "sports-lose",
+    "grade": 1,
+    "world": "sports",
+    "en": "lose",
+    "pl": "przegrać"
   },
   {
     "id": "sports-goalkeeper",
-    "en": "goalkeeper",
-    "pl": "bramkarz",
-    "world": "sports",
     "grade": 2,
-    "category": "sports"
+    "world": "sports",
+    "en": "goalkeeper",
+    "pl": "bramkarz"
   },
   {
     "id": "sports-teammate",
-    "en": "teammate",
-    "pl": "kolega z drużyny",
-    "world": "sports",
     "grade": 2,
-    "category": "sports"
+    "world": "sports",
+    "en": "teammate",
+    "pl": "kolega z drużyny"
   },
   {
     "id": "sports-winner",
-    "en": "winner",
-    "pl": "zwycięzca",
-    "world": "sports",
     "grade": 2,
-    "category": "sports"
+    "world": "sports",
+    "en": "winner",
+    "pl": "zwycięzca"
   },
   {
     "id": "sports-training",
+    "grade": 2,
+    "world": "sports",
     "en": "training",
-    "pl": "trening",
-    "world": "sports",
-    "grade": 2,
-    "category": "sports"
-  },
-  {
-    "id": "sports-practise",
-    "en": "practise",
-    "pl": "trenować",
-    "world": "sports",
-    "grade": 2,
-    "category": "sports"
+    "pl": "trening"
   },
   {
     "id": "sports-exercise",
+    "grade": 2,
+    "world": "sports",
     "en": "exercise",
-    "pl": "ćwiczenia",
-    "world": "sports",
-    "grade": 2,
-    "category": "sports"
-  },
-  {
-    "id": "sports-competition",
-    "en": "competition",
-    "pl": "zawody",
-    "world": "sports",
-    "grade": 2,
-    "category": "sports"
-  },
-  {
-    "id": "sports-champion",
-    "en": "champion",
-    "pl": "mistrz",
-    "world": "sports",
-    "grade": 2,
-    "category": "sports"
-  },
-  {
-    "id": "sports-balance",
-    "en": "balance",
-    "pl": "równowaga",
-    "world": "sports",
-    "grade": 2,
-    "category": "sports"
+    "pl": "ćwiczenie"
   },
   {
     "id": "sports-strong",
-    "en": "strong",
-    "pl": "silny",
-    "world": "sports",
     "grade": 2,
-    "category": "sports"
+    "world": "sports",
+    "en": "strong",
+    "pl": "silny"
   },
   {
     "id": "sports-fast",
-    "en": "fast",
-    "pl": "szybki",
-    "world": "sports",
     "grade": 2,
-    "category": "sports"
+    "world": "sports",
+    "en": "fast",
+    "pl": "szybki"
   },
   {
     "id": "sports-slow",
-    "en": "slow",
-    "pl": "powolny",
+    "grade": 2,
     "world": "sports",
-    "grade": 3,
-    "category": "sports"
+    "en": "slow",
+    "pl": "powolny"
   },
   {
     "id": "sports-tired",
-    "en": "tired",
-    "pl": "zmęczony",
-    "world": "sports",
     "grade": 3,
-    "category": "sports"
+    "world": "sports",
+    "en": "tired",
+    "pl": "zmęczony"
   },
   {
     "id": "sports-excited",
+    "grade": 3,
+    "world": "sports",
     "en": "excited",
-    "pl": "podekscytowany",
-    "world": "sports",
-    "grade": 3,
-    "category": "sports"
-  },
-  {
-    "id": "sports-equipment",
-    "en": "equipment",
-    "pl": "sprzęt",
-    "world": "sports",
-    "grade": 3,
-    "category": "sports"
-  },
-  {
-    "id": "sports-referee",
-    "en": "referee",
-    "pl": "sędzia",
-    "world": "sports",
-    "grade": 3,
-    "category": "sports"
+    "pl": "podekscytowany"
   },
   {
     "id": "sports-stadium",
+    "grade": 3,
+    "world": "sports",
     "en": "stadium",
-    "pl": "stadion",
-    "world": "sports",
-    "grade": 3,
-    "category": "sports"
+    "pl": "stadion"
   },
   {
-    "id": "sports-achievement",
-    "en": "achievement",
-    "pl": "osiągnięcie",
-    "world": "sports",
+    "id": "sports-competition",
     "grade": 3,
-    "category": "sports"
+    "world": "sports",
+    "en": "competition",
+    "pl": "zawody"
   },
   {
-    "id": "sports-challenge",
-    "en": "challenge",
-    "pl": "wyzwanie",
-    "world": "sports",
+    "id": "sports-champion",
     "grade": 3,
-    "category": "sports"
+    "world": "sports",
+    "en": "champion",
+    "pl": "mistrz"
   },
   {
     "id": "weather-sunny",
-    "en": "sunny",
-    "pl": "słonecznie",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "sunny",
+    "pl": "słoneczny"
   },
   {
     "id": "weather-cloudy",
-    "en": "cloudy",
-    "pl": "pochmurno",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "cloudy",
+    "pl": "pochmurny"
   },
   {
     "id": "weather-windy",
-    "en": "windy",
-    "pl": "wietrznie",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "windy",
+    "pl": "wietrzny"
   },
   {
     "id": "weather-rainy",
-    "en": "rainy",
-    "pl": "deszczowo",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "rainy",
+    "pl": "deszczowy"
   },
   {
     "id": "weather-snowy",
-    "en": "snowy",
-    "pl": "śnieżnie",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "snowy",
+    "pl": "śnieżny"
   },
   {
     "id": "weather-stormy",
-    "en": "stormy",
-    "pl": "burzowo",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "stormy",
+    "pl": "burzowy"
   },
   {
     "id": "weather-foggy",
-    "en": "foggy",
-    "pl": "mgliście",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "foggy",
+    "pl": "mglisty"
   },
   {
     "id": "weather-rainbow",
-    "en": "rainbow",
-    "pl": "tęcza",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "rainbow",
+    "pl": "tęcza"
   },
   {
     "id": "weather-thunder",
-    "en": "thunder",
-    "pl": "grzmot",
-    "world": "weather",
     "grade": 1,
-    "category": "weather"
+    "world": "weather",
+    "en": "thunder",
+    "pl": "grzmot"
   },
   {
     "id": "weather-lightning",
+    "grade": 1,
+    "world": "weather",
     "en": "lightning",
-    "pl": "błyskawica",
-    "world": "weather",
-    "grade": 1,
-    "category": "weather"
-  },
-  {
-    "id": "weather-temperature",
-    "en": "temperature",
-    "pl": "temperatura",
-    "world": "weather",
-    "grade": 1,
-    "category": "weather"
-  },
-  {
-    "id": "weather-forecast",
-    "en": "forecast",
-    "pl": "prognoza",
-    "world": "weather",
-    "grade": 1,
-    "category": "weather"
+    "pl": "błyskawica"
   },
   {
     "id": "weather-season",
-    "en": "season",
-    "pl": "pora roku",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "season",
+    "pl": "pora roku"
   },
   {
     "id": "weather-spring",
-    "en": "spring",
-    "pl": "wiosna",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "spring",
+    "pl": "wiosna"
   },
   {
     "id": "weather-summer",
-    "en": "summer",
-    "pl": "lato",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "summer",
+    "pl": "lato"
   },
   {
     "id": "weather-autumn",
-    "en": "autumn",
-    "pl": "jesień",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "autumn",
+    "pl": "jesień"
   },
   {
     "id": "weather-winter",
-    "en": "winter",
-    "pl": "zima",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "winter",
+    "pl": "zima"
   },
   {
     "id": "weather-warm",
+    "grade": 1,
+    "world": "weather",
     "en": "warm",
-    "pl": "ciepły",
-    "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "pl": "ciepły"
   },
   {
-    "id": "weather-chilly",
-    "en": "chilly",
-    "pl": "chłodny",
+    "id": "weather-cold",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "cold",
+    "pl": "zimny"
   },
   {
-    "id": "weather-freezing",
-    "en": "freezing",
-    "pl": "lodowaty",
+    "id": "weather-hot",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "hot",
+    "pl": "gorący"
   },
   {
     "id": "weather-umbrella",
-    "en": "umbrella",
-    "pl": "parasol",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "umbrella",
+    "pl": "parasol"
   },
   {
     "id": "weather-raincoat",
-    "en": "raincoat",
-    "pl": "płaszcz przeciwdeszczowy",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "raincoat",
+    "pl": "płaszcz przeciwdeszczowy"
   },
   {
     "id": "weather-boots",
+    "grade": 1,
+    "world": "weather",
     "en": "boots",
-    "pl": "kalosze",
-    "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "pl": "kalosze"
   },
   {
-    "id": "weather-sunshine",
-    "en": "sunshine",
-    "pl": "światło słoneczne",
+    "id": "weather-snow",
+    "grade": 1,
     "world": "weather",
-    "grade": 2,
-    "category": "weather"
+    "en": "snow",
+    "pl": "śnieg"
   },
   {
-    "id": "weather-snowflake",
-    "en": "snowflake",
-    "pl": "płatek śniegu",
+    "id": "weather-rain",
+    "grade": 1,
     "world": "weather",
-    "grade": 3,
-    "category": "weather"
+    "en": "rain",
+    "pl": "deszcz"
   },
   {
-    "id": "weather-breeze",
-    "en": "breeze",
-    "pl": "bryza",
+    "id": "weather-sun",
+    "grade": 1,
     "world": "weather",
-    "grade": 3,
-    "category": "weather"
+    "en": "sun",
+    "pl": "słońce"
   },
   {
-    "id": "weather-drought",
-    "en": "drought",
-    "pl": "susza",
+    "id": "weather-cloud",
+    "grade": 1,
     "world": "weather",
-    "grade": 3,
-    "category": "weather"
-  },
-  {
-    "id": "weather-flood",
-    "en": "flood",
-    "pl": "powódź",
-    "world": "weather",
-    "grade": 3,
-    "category": "weather"
-  },
-  {
-    "id": "weather-climate",
-    "en": "climate",
-    "pl": "klimat",
-    "world": "weather",
-    "grade": 3,
-    "category": "weather"
-  },
-  {
-    "id": "weather-atmosphere",
-    "en": "atmosphere",
-    "pl": "atmosfera",
-    "world": "weather",
-    "grade": 3,
-    "category": "weather"
+    "en": "cloud",
+    "pl": "chmura"
   },
   {
     "id": "weather-weather",
-    "en": "weather",
-    "pl": "pogoda",
+    "grade": 2,
     "world": "weather",
-    "grade": 3,
-    "category": "weather"
+    "en": "weather",
+    "pl": "pogoda"
   },
   {
-    "id": "weather-freezing-cold",
-    "en": "freezing cold",
-    "pl": "przenikliwie zimno",
+    "id": "weather-temperature",
+    "grade": 2,
     "world": "weather",
+    "en": "temperature",
+    "pl": "temperatura"
+  },
+  {
+    "id": "weather-chilly",
+    "grade": 2,
+    "world": "weather",
+    "en": "chilly",
+    "pl": "chłodny"
+  },
+  {
+    "id": "weather-freezing",
+    "grade": 2,
+    "world": "weather",
+    "en": "freezing",
+    "pl": "lodowaty"
+  },
+  {
+    "id": "weather-sunshine",
+    "grade": 2,
+    "world": "weather",
+    "en": "sunshine",
+    "pl": "światło słoneczne"
+  },
+  {
+    "id": "weather-snowflake",
+    "grade": 2,
+    "world": "weather",
+    "en": "snowflake",
+    "pl": "płatek śniegu"
+  },
+  {
+    "id": "weather-wet",
+    "grade": 2,
+    "world": "weather",
+    "en": "wet",
+    "pl": "mokry"
+  },
+  {
+    "id": "weather-dry",
+    "grade": 2,
+    "world": "weather",
+    "en": "dry",
+    "pl": "suchy"
+  },
+  {
+    "id": "weather-forecast",
     "grade": 3,
-    "category": "weather"
+    "world": "weather",
+    "en": "forecast",
+    "pl": "prognoza pogody"
+  },
+  {
+    "id": "weather-ice",
+    "grade": 3,
+    "world": "weather",
+    "en": "ice",
+    "pl": "lód"
+  },
+  {
+    "id": "weather-puddle",
+    "grade": 3,
+    "world": "weather",
+    "en": "puddle",
+    "pl": "kałuża"
+  },
+  {
+    "id": "weather-sky",
+    "grade": 3,
+    "world": "weather",
+    "en": "sky",
+    "pl": "niebo"
+  },
+  {
+    "id": "weather-breeze",
+    "grade": 3,
+    "world": "weather",
+    "en": "breeze",
+    "pl": "lekki wiatr"
   },
   {
     "id": "city-street",
-    "en": "street",
-    "pl": "ulica",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "street",
+    "pl": "ulica"
   },
   {
     "id": "city-pavement",
-    "en": "pavement",
-    "pl": "chodnik",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "pavement",
+    "pl": "chodnik"
   },
   {
     "id": "city-crossing",
-    "en": "crossing",
-    "pl": "przejście",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "crossing",
+    "pl": "przejście dla pieszych"
   },
   {
     "id": "city-traffic-lights",
-    "en": "traffic lights",
-    "pl": "sygnalizacja świetlna",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "traffic lights",
+    "pl": "światła drogowe"
   },
   {
     "id": "city-station",
-    "en": "station",
-    "pl": "stacja",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "station",
+    "pl": "stacja"
   },
   {
     "id": "city-airport",
-    "en": "airport",
-    "pl": "lotnisko",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "airport",
+    "pl": "lotnisko"
   },
   {
     "id": "city-supermarket",
-    "en": "supermarket",
-    "pl": "supermarket",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "supermarket",
+    "pl": "supermarket"
   },
   {
     "id": "city-pharmacy",
-    "en": "pharmacy",
-    "pl": "apteka",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "pharmacy",
+    "pl": "apteka"
   },
   {
     "id": "city-hospital",
-    "en": "hospital",
-    "pl": "szpital",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "hospital",
+    "pl": "szpital"
   },
   {
     "id": "city-museum",
-    "en": "museum",
-    "pl": "muzeum",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "museum",
+    "pl": "muzeum"
   },
   {
     "id": "city-cinema",
-    "en": "cinema",
-    "pl": "kino",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "cinema",
+    "pl": "kino"
   },
   {
     "id": "city-theatre",
-    "en": "theatre",
-    "pl": "teatr",
-    "world": "city",
     "grade": 1,
-    "category": "city"
+    "world": "city",
+    "en": "theatre",
+    "pl": "teatr"
   },
   {
     "id": "city-restaurant",
-    "en": "restaurant",
-    "pl": "restauracja",
+    "grade": 1,
     "world": "city",
-    "grade": 2,
-    "category": "city"
+    "en": "restaurant",
+    "pl": "restauracja"
   },
   {
     "id": "city-post-office",
-    "en": "post office",
-    "pl": "poczta",
+    "grade": 1,
     "world": "city",
-    "grade": 2,
-    "category": "city"
+    "en": "post office",
+    "pl": "poczta"
   },
   {
     "id": "city-bookshop",
-    "en": "bookshop",
-    "pl": "księgarnia",
+    "grade": 1,
     "world": "city",
-    "grade": 2,
-    "category": "city"
+    "en": "bookshop",
+    "pl": "księgarnia"
   },
   {
     "id": "city-bakery",
+    "grade": 1,
+    "world": "city",
     "en": "bakery",
-    "pl": "piekarnia",
-    "world": "city",
-    "grade": 2,
-    "category": "city"
-  },
-  {
-    "id": "city-journey",
-    "en": "journey",
-    "pl": "podróż",
-    "world": "city",
-    "grade": 2,
-    "category": "city"
+    "pl": "piekarnia"
   },
   {
     "id": "city-ticket",
+    "grade": 1,
+    "world": "city",
     "en": "ticket",
-    "pl": "bilet",
-    "world": "city",
-    "grade": 2,
-    "category": "city"
-  },
-  {
-    "id": "city-passenger",
-    "en": "passenger",
-    "pl": "pasażer",
-    "world": "city",
-    "grade": 2,
-    "category": "city"
+    "pl": "bilet"
   },
   {
     "id": "city-bicycle",
-    "en": "bicycle",
-    "pl": "rower",
+    "grade": 1,
     "world": "city",
-    "grade": 2,
-    "category": "city"
+    "en": "bicycle",
+    "pl": "rower"
   },
   {
     "id": "city-scooter",
+    "grade": 1,
+    "world": "city",
     "en": "scooter",
-    "pl": "hulajnoga",
-    "world": "city",
-    "grade": 2,
-    "category": "city"
-  },
-  {
-    "id": "city-underground",
-    "en": "underground",
-    "pl": "metro",
-    "world": "city",
-    "grade": 2,
-    "category": "city"
+    "pl": "hulajnoga"
   },
   {
     "id": "city-bridge",
-    "en": "bridge",
-    "pl": "most",
+    "grade": 1,
     "world": "city",
+    "en": "bridge",
+    "pl": "most"
+  },
+  {
+    "id": "city-park",
+    "grade": 1,
+    "world": "city",
+    "en": "park",
+    "pl": "park"
+  },
+  {
+    "id": "city-shop",
+    "grade": 1,
+    "world": "city",
+    "en": "shop",
+    "pl": "sklep"
+  },
+  {
+    "id": "city-bus",
+    "grade": 1,
+    "world": "city",
+    "en": "bus",
+    "pl": "autobus"
+  },
+  {
+    "id": "city-train",
+    "grade": 1,
+    "world": "city",
+    "en": "train",
+    "pl": "pociąg"
+  },
+  {
+    "id": "city-car",
+    "grade": 1,
+    "world": "city",
+    "en": "car",
+    "pl": "samochód"
+  },
+  {
+    "id": "city-journey",
     "grade": 2,
-    "category": "city"
+    "world": "city",
+    "en": "journey",
+    "pl": "podróż"
+  },
+  {
+    "id": "city-passenger",
+    "grade": 2,
+    "world": "city",
+    "en": "passenger",
+    "pl": "pasażer"
+  },
+  {
+    "id": "city-underground",
+    "grade": 2,
+    "world": "city",
+    "en": "underground",
+    "pl": "metro"
   },
   {
     "id": "city-square",
-    "en": "square",
-    "pl": "plac",
-    "world": "city",
     "grade": 2,
-    "category": "city"
+    "world": "city",
+    "en": "square",
+    "pl": "plac"
   },
   {
     "id": "city-village",
+    "grade": 2,
+    "world": "city",
     "en": "village",
-    "pl": "wioska",
-    "world": "city",
-    "grade": 3,
-    "category": "city"
-  },
-  {
-    "id": "city-countryside",
-    "en": "countryside",
-    "pl": "wieś",
-    "world": "city",
-    "grade": 3,
-    "category": "city"
-  },
-  {
-    "id": "city-capital",
-    "en": "capital",
-    "pl": "stolica",
-    "world": "city",
-    "grade": 3,
-    "category": "city"
-  },
-  {
-    "id": "city-direction",
-    "en": "direction",
-    "pl": "kierunek",
-    "world": "city",
-    "grade": 3,
-    "category": "city"
+    "pl": "wieś"
   },
   {
     "id": "city-opposite",
-    "en": "opposite",
-    "pl": "naprzeciwko",
+    "grade": 2,
     "world": "city",
-    "grade": 3,
-    "category": "city"
+    "en": "opposite",
+    "pl": "naprzeciwko"
   },
   {
     "id": "city-between",
-    "en": "between",
-    "pl": "pomiędzy",
+    "grade": 2,
     "world": "city",
-    "grade": 3,
-    "category": "city"
+    "en": "between",
+    "pl": "pomiędzy"
   },
   {
     "id": "city-behind",
-    "en": "behind",
-    "pl": "za",
+    "grade": 2,
     "world": "city",
+    "en": "behind",
+    "pl": "za"
+  },
+  {
+    "id": "city-countryside",
     "grade": 3,
-    "category": "city"
+    "world": "city",
+    "en": "countryside",
+    "pl": "wieś i okolice"
   },
   {
     "id": "city-entrance",
-    "en": "entrance",
-    "pl": "wejście",
-    "world": "city",
     "grade": 3,
-    "category": "city"
+    "world": "city",
+    "en": "entrance",
+    "pl": "wejście"
+  },
+  {
+    "id": "city-direction",
+    "grade": 3,
+    "world": "city",
+    "en": "direction",
+    "pl": "kierunek"
+  },
+  {
+    "id": "city-traffic",
+    "grade": 3,
+    "world": "city",
+    "en": "traffic",
+    "pl": "ruch uliczny"
+  },
+  {
+    "id": "city-map",
+    "grade": 3,
+    "world": "city",
+    "en": "map",
+    "pl": "mapa"
   },
   {
     "id": "space-morning",
-    "en": "morning",
-    "pl": "poranek",
-    "world": "space",
     "grade": 1,
-    "category": "space"
+    "world": "space",
+    "en": "morning",
+    "pl": "rano"
   },
   {
     "id": "space-afternoon",
-    "en": "afternoon",
-    "pl": "popołudnie",
-    "world": "space",
     "grade": 1,
-    "category": "space"
+    "world": "space",
+    "en": "afternoon",
+    "pl": "popołudnie"
   },
   {
     "id": "space-evening",
+    "grade": 1,
+    "world": "space",
     "en": "evening",
-    "pl": "wieczór",
-    "world": "space",
-    "grade": 1,
-    "category": "space"
+    "pl": "wieczór"
   },
   {
-    "id": "space-midnight",
-    "en": "midnight",
-    "pl": "północ",
-    "world": "space",
+    "id": "space-night",
     "grade": 1,
-    "category": "space"
+    "world": "space",
+    "en": "night",
+    "pl": "noc"
   },
   {
-    "id": "space-yesterday",
-    "en": "yesterday",
-    "pl": "wczoraj",
-    "world": "space",
+    "id": "space-today",
     "grade": 1,
-    "category": "space"
+    "world": "space",
+    "en": "today",
+    "pl": "dzisiaj"
   },
   {
     "id": "space-tomorrow",
+    "grade": 1,
+    "world": "space",
     "en": "tomorrow",
-    "pl": "jutro",
-    "world": "space",
+    "pl": "jutro"
+  },
+  {
+    "id": "space-yesterday",
     "grade": 1,
-    "category": "space"
-  },
-  {
-    "id": "space-sometimes",
-    "en": "sometimes",
-    "pl": "czasami",
     "world": "space",
-    "grade": 1,
-    "category": "space"
-  },
-  {
-    "id": "space-usually",
-    "en": "usually",
-    "pl": "zazwyczaj",
-    "world": "space",
-    "grade": 1,
-    "category": "space"
-  },
-  {
-    "id": "space-always",
-    "en": "always",
-    "pl": "zawsze",
-    "world": "space",
-    "grade": 1,
-    "category": "space"
-  },
-  {
-    "id": "space-never",
-    "en": "never",
-    "pl": "nigdy",
-    "world": "space",
-    "grade": 1,
-    "category": "space"
-  },
-  {
-    "id": "space-often",
-    "en": "often",
-    "pl": "często",
-    "world": "space",
-    "grade": 1,
-    "category": "space"
-  },
-  {
-    "id": "space-early",
-    "en": "early",
-    "pl": "wcześnie",
-    "world": "space",
-    "grade": 1,
-    "category": "space"
-  },
-  {
-    "id": "space-late",
-    "en": "late",
-    "pl": "późno",
-    "world": "space",
-    "grade": 2,
-    "category": "space"
-  },
-  {
-    "id": "space-calendar",
-    "en": "calendar",
-    "pl": "kalendarz",
-    "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "yesterday",
+    "pl": "wczoraj"
   },
   {
     "id": "space-birthday",
-    "en": "birthday",
-    "pl": "urodziny",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "birthday",
+    "pl": "urodziny"
   },
   {
     "id": "space-weekend",
-    "en": "weekend",
-    "pl": "weekend",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "weekend",
+    "pl": "weekend"
   },
   {
     "id": "space-holiday",
+    "grade": 1,
+    "world": "space",
     "en": "holiday",
-    "pl": "wakacje",
-    "world": "space",
-    "grade": 2,
-    "category": "space"
+    "pl": "wakacje"
   },
   {
-    "id": "space-astronaut",
-    "en": "astronaut",
-    "pl": "astronauta",
+    "id": "space-monday",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "Monday",
+    "pl": "poniedziałek"
   },
   {
-    "id": "space-planet",
-    "en": "planet",
-    "pl": "planeta",
+    "id": "space-tuesday",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "Tuesday",
+    "pl": "wtorek"
   },
   {
-    "id": "space-spaceship",
-    "en": "spaceship",
-    "pl": "statek kosmiczny",
+    "id": "space-wednesday",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "Wednesday",
+    "pl": "środa"
   },
   {
-    "id": "space-universe",
-    "en": "universe",
-    "pl": "wszechświat",
+    "id": "space-thursday",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "Thursday",
+    "pl": "czwartek"
   },
   {
-    "id": "space-galaxy",
-    "en": "galaxy",
-    "pl": "galaktyka",
+    "id": "space-friday",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "Friday",
+    "pl": "piątek"
+  },
+  {
+    "id": "space-saturday",
+    "grade": 1,
+    "world": "space",
+    "en": "Saturday",
+    "pl": "sobota"
+  },
+  {
+    "id": "space-sunday",
+    "grade": 1,
+    "world": "space",
+    "en": "Sunday",
+    "pl": "niedziela"
   },
   {
     "id": "space-star",
-    "en": "star",
-    "pl": "gwiazda",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "star",
+    "pl": "gwiazda"
   },
   {
     "id": "space-moon",
-    "en": "moon",
-    "pl": "księżyc",
+    "grade": 1,
     "world": "space",
-    "grade": 2,
-    "category": "space"
+    "en": "moon",
+    "pl": "księżyc"
   },
   {
-    "id": "space-telescope",
-    "en": "telescope",
-    "pl": "teleskop",
+    "id": "space-planet",
+    "grade": 1,
     "world": "space",
-    "grade": 3,
-    "category": "space"
+    "en": "planet",
+    "pl": "planeta"
   },
   {
     "id": "space-rocket",
+    "grade": 1,
+    "world": "space",
     "en": "rocket",
-    "pl": "rakieta",
-    "world": "space",
-    "grade": 3,
-    "category": "space"
+    "pl": "rakieta"
   },
   {
-    "id": "space-discover",
-    "en": "discover",
-    "pl": "odkrywać",
-    "world": "space",
-    "grade": 3,
-    "category": "space"
-  },
-  {
-    "id": "space-explore",
-    "en": "explore",
-    "pl": "badać",
-    "world": "space",
-    "grade": 3,
-    "category": "space"
-  },
-  {
-    "id": "space-gravity",
-    "en": "gravity",
-    "pl": "grawitacja",
-    "world": "space",
-    "grade": 3,
-    "category": "space"
-  },
-  {
-    "id": "space-orbit",
-    "en": "orbit",
-    "pl": "orbita",
-    "world": "space",
-    "grade": 3,
-    "category": "space"
-  },
-  {
-    "id": "space-distance",
-    "en": "distance",
-    "pl": "odległość",
-    "world": "space",
-    "grade": 3,
-    "category": "space"
-  },
-  {
-    "id": "space-future",
-    "en": "future",
-    "pl": "przyszłość",
-    "world": "space",
-    "grade": 3,
-    "category": "space"
-  },
-  {
-    "id": "dragon-beautiful",
-    "en": "beautiful",
-    "pl": "piękny",
-    "world": "dragon",
+    "id": "space-astronaut",
     "grade": 1,
-    "category": "dragon"
+    "world": "space",
+    "en": "astronaut",
+    "pl": "astronauta"
   },
   {
-    "id": "dragon-wonderful",
-    "en": "wonderful",
-    "pl": "wspaniały",
-    "world": "dragon",
+    "id": "space-clock",
     "grade": 1,
-    "category": "dragon"
+    "world": "space",
+    "en": "clock",
+    "pl": "zegar"
   },
   {
-    "id": "dragon-amazing",
-    "en": "amazing",
-    "pl": "niesamowity",
-    "world": "dragon",
+    "id": "space-calendar",
     "grade": 1,
-    "category": "dragon"
+    "world": "space",
+    "en": "calendar",
+    "pl": "kalendarz"
   },
   {
-    "id": "dragon-mysterious",
-    "en": "mysterious",
-    "pl": "tajemniczy",
-    "world": "dragon",
+    "id": "space-minute",
     "grade": 1,
-    "category": "dragon"
+    "world": "space",
+    "en": "minute",
+    "pl": "minuta"
+  },
+  {
+    "id": "space-sometimes",
+    "grade": 2,
+    "world": "space",
+    "en": "sometimes",
+    "pl": "czasami"
+  },
+  {
+    "id": "space-usually",
+    "grade": 2,
+    "world": "space",
+    "en": "usually",
+    "pl": "zazwyczaj"
+  },
+  {
+    "id": "space-always",
+    "grade": 2,
+    "world": "space",
+    "en": "always",
+    "pl": "zawsze"
+  },
+  {
+    "id": "space-never",
+    "grade": 2,
+    "world": "space",
+    "en": "never",
+    "pl": "nigdy"
+  },
+  {
+    "id": "space-often",
+    "grade": 2,
+    "world": "space",
+    "en": "often",
+    "pl": "często"
+  },
+  {
+    "id": "space-early",
+    "grade": 2,
+    "world": "space",
+    "en": "early",
+    "pl": "wcześnie"
+  },
+  {
+    "id": "space-late",
+    "grade": 2,
+    "world": "space",
+    "en": "late",
+    "pl": "późno"
+  },
+  {
+    "id": "space-spaceship",
+    "grade": 2,
+    "world": "space",
+    "en": "spaceship",
+    "pl": "statek kosmiczny"
+  },
+  {
+    "id": "space-telescope",
+    "grade": 3,
+    "world": "space",
+    "en": "telescope",
+    "pl": "teleskop"
+  },
+  {
+    "id": "space-space",
+    "grade": 3,
+    "world": "space",
+    "en": "space",
+    "pl": "kosmos"
+  },
+  {
+    "id": "space-earth",
+    "grade": 3,
+    "world": "space",
+    "en": "Earth",
+    "pl": "Ziemia"
+  },
+  {
+    "id": "space-mars",
+    "grade": 3,
+    "world": "space",
+    "en": "Mars",
+    "pl": "Mars"
+  },
+  {
+    "id": "space-hour",
+    "grade": 3,
+    "world": "space",
+    "en": "hour",
+    "pl": "godzina"
+  },
+  {
+    "id": "dragon-happy",
+    "grade": 1,
+    "world": "dragon",
+    "en": "happy",
+    "pl": "szczęśliwy"
+  },
+  {
+    "id": "dragon-sad",
+    "grade": 1,
+    "world": "dragon",
+    "en": "sad",
+    "pl": "smutny"
+  },
+  {
+    "id": "dragon-angry",
+    "grade": 1,
+    "world": "dragon",
+    "en": "angry",
+    "pl": "zły"
+  },
+  {
+    "id": "dragon-scared",
+    "grade": 1,
+    "world": "dragon",
+    "en": "scared",
+    "pl": "przestraszony"
   },
   {
     "id": "dragon-brave",
+    "grade": 1,
+    "world": "dragon",
     "en": "brave",
-    "pl": "odważny",
-    "world": "dragon",
-    "grade": 1,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-nervous",
-    "en": "nervous",
-    "pl": "zdenerwowany",
-    "world": "dragon",
-    "grade": 1,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-worried",
-    "en": "worried",
-    "pl": "zmartwiony",
-    "world": "dragon",
-    "grade": 1,
-    "category": "dragon"
+    "pl": "odważny"
   },
   {
     "id": "dragon-surprised",
-    "en": "surprised",
-    "pl": "zaskoczony",
-    "world": "dragon",
     "grade": 1,
-    "category": "dragon"
+    "world": "dragon",
+    "en": "surprised",
+    "pl": "zaskoczony"
   },
   {
-    "id": "dragon-confident",
-    "en": "confident",
-    "pl": "pewny siebie",
-    "world": "dragon",
+    "id": "dragon-funny",
     "grade": 1,
-    "category": "dragon"
+    "world": "dragon",
+    "en": "funny",
+    "pl": "zabawny"
+  },
+  {
+    "id": "dragon-kind",
+    "grade": 1,
+    "world": "dragon",
+    "en": "kind",
+    "pl": "miły"
+  },
+  {
+    "id": "dragon-beautiful",
+    "grade": 1,
+    "world": "dragon",
+    "en": "beautiful",
+    "pl": "piękny"
+  },
+  {
+    "id": "dragon-ugly",
+    "grade": 1,
+    "world": "dragon",
+    "en": "ugly",
+    "pl": "brzydki"
+  },
+  {
+    "id": "dragon-big",
+    "grade": 1,
+    "world": "dragon",
+    "en": "big",
+    "pl": "duży"
+  },
+  {
+    "id": "dragon-small",
+    "grade": 1,
+    "world": "dragon",
+    "en": "small",
+    "pl": "mały"
+  },
+  {
+    "id": "dragon-tall",
+    "grade": 1,
+    "world": "dragon",
+    "en": "tall",
+    "pl": "wysoki"
+  },
+  {
+    "id": "dragon-short",
+    "grade": 1,
+    "world": "dragon",
+    "en": "short",
+    "pl": "niski"
+  },
+  {
+    "id": "dragon-young",
+    "grade": 1,
+    "world": "dragon",
+    "en": "young",
+    "pl": "młody"
+  },
+  {
+    "id": "dragon-old",
+    "grade": 1,
+    "world": "dragon",
+    "en": "old",
+    "pl": "stary"
+  },
+  {
+    "id": "dragon-hungry",
+    "grade": 1,
+    "world": "dragon",
+    "en": "hungry",
+    "pl": "głodny"
+  },
+  {
+    "id": "dragon-thirsty",
+    "grade": 1,
+    "world": "dragon",
+    "en": "thirsty",
+    "pl": "spragniony"
+  },
+  {
+    "id": "dragon-tired",
+    "grade": 1,
+    "world": "dragon",
+    "en": "tired",
+    "pl": "zmęczony"
+  },
+  {
+    "id": "dragon-strong",
+    "grade": 1,
+    "world": "dragon",
+    "en": "strong",
+    "pl": "silny"
+  },
+  {
+    "id": "dragon-weak",
+    "grade": 1,
+    "world": "dragon",
+    "en": "weak",
+    "pl": "słaby"
+  },
+  {
+    "id": "dragon-friendly",
+    "grade": 1,
+    "world": "dragon",
+    "en": "friendly",
+    "pl": "przyjazny"
+  },
+  {
+    "id": "dragon-shy",
+    "grade": 1,
+    "world": "dragon",
+    "en": "shy",
+    "pl": "nieśmiały"
+  },
+  {
+    "id": "dragon-nice",
+    "grade": 1,
+    "world": "dragon",
+    "en": "nice",
+    "pl": "miły"
+  },
+  {
+    "id": "dragon-excited",
+    "grade": 1,
+    "world": "dragon",
+    "en": "excited",
+    "pl": "podekscytowany"
+  },
+  {
+    "id": "dragon-worried",
+    "grade": 2,
+    "world": "dragon",
+    "en": "worried",
+    "pl": "zmartwiony"
+  },
+  {
+    "id": "dragon-nervous",
+    "grade": 2,
+    "world": "dragon",
+    "en": "nervous",
+    "pl": "zdenerwowany"
   },
   {
     "id": "dragon-polite",
-    "en": "polite",
-    "pl": "uprzejmy",
-    "world": "dragon",
-    "grade": 1,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-honest",
-    "en": "honest",
-    "pl": "uczciwy",
-    "world": "dragon",
-    "grade": 1,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-generous",
-    "en": "generous",
-    "pl": "hojny",
-    "world": "dragon",
-    "grade": 1,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-patient",
-    "en": "patient",
-    "pl": "cierpliwy",
-    "world": "dragon",
     "grade": 2,
-    "category": "dragon"
+    "world": "dragon",
+    "en": "polite",
+    "pl": "grzeczny"
   },
   {
     "id": "dragon-careful",
-    "en": "careful",
-    "pl": "ostrożny",
-    "world": "dragon",
     "grade": 2,
-    "category": "dragon"
+    "world": "dragon",
+    "en": "careful",
+    "pl": "ostrożny"
   },
   {
     "id": "dragon-different",
+    "grade": 2,
+    "world": "dragon",
     "en": "different",
-    "pl": "inny",
-    "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-similar",
-    "en": "similar",
-    "pl": "podobny",
-    "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-important",
-    "en": "important",
-    "pl": "ważny",
-    "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-impossible",
-    "en": "impossible",
-    "pl": "niemożliwy",
-    "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-exciting",
-    "en": "exciting",
-    "pl": "ekscytujący",
-    "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
+    "pl": "inny"
   },
   {
     "id": "dragon-boring",
+    "grade": 2,
+    "world": "dragon",
     "en": "boring",
-    "pl": "nudny",
-    "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
+    "pl": "nudny"
   },
   {
-    "id": "dragon-adventure",
-    "en": "adventure",
-    "pl": "przygoda",
-    "world": "dragon",
+    "id": "dragon-exciting",
     "grade": 2,
-    "category": "dragon"
+    "world": "dragon",
+    "en": "exciting",
+    "pl": "ekscytujący"
   },
   {
-    "id": "dragon-treasure",
-    "en": "treasure",
-    "pl": "skarb",
-    "world": "dragon",
+    "id": "dragon-wonderful",
     "grade": 2,
-    "category": "dragon"
+    "world": "dragon",
+    "en": "wonderful",
+    "pl": "wspaniały"
   },
   {
-    "id": "dragon-dragon",
-    "en": "dragon",
-    "pl": "smok",
+    "id": "dragon-confused",
+    "grade": 3,
     "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
+    "en": "confused",
+    "pl": "zmieszany"
   },
   {
-    "id": "dragon-castle",
+    "id": "dragon-proud",
+    "grade": 3,
+    "world": "dragon",
+    "en": "proud",
+    "pl": "dumny"
+  },
+  {
+    "id": "dragon-patient",
+    "grade": 3,
+    "world": "dragon",
+    "en": "patient",
+    "pl": "cierpliwy"
+  },
+  {
+    "id": "dragon-similar",
+    "grade": 3,
+    "world": "dragon",
+    "en": "similar",
+    "pl": "podobny"
+  },
+  {
+    "id": "castle-castle",
+    "grade": 1,
+    "world": "castle",
     "en": "castle",
-    "pl": "zamek",
-    "world": "dragon",
-    "grade": 2,
-    "category": "dragon"
+    "pl": "zamek"
   },
   {
-    "id": "dragon-kingdom",
-    "en": "kingdom",
-    "pl": "królestwo",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
+    "id": "castle-dragon",
+    "grade": 1,
+    "world": "castle",
+    "en": "dragon",
+    "pl": "smok"
   },
   {
-    "id": "dragon-knight",
-    "en": "knight",
-    "pl": "rycerz",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-princess",
+    "id": "castle-princess",
+    "grade": 1,
+    "world": "castle",
     "en": "princess",
-    "pl": "księżniczka",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
+    "pl": "księżniczka"
   },
   {
-    "id": "dragon-wizard",
+    "id": "castle-prince",
+    "grade": 1,
+    "world": "castle",
+    "en": "prince",
+    "pl": "książę"
+  },
+  {
+    "id": "castle-king",
+    "grade": 1,
+    "world": "castle",
+    "en": "king",
+    "pl": "król"
+  },
+  {
+    "id": "castle-queen",
+    "grade": 1,
+    "world": "castle",
+    "en": "queen",
+    "pl": "królowa"
+  },
+  {
+    "id": "castle-knight",
+    "grade": 1,
+    "world": "castle",
+    "en": "knight",
+    "pl": "rycerz"
+  },
+  {
+    "id": "castle-wizard",
+    "grade": 1,
+    "world": "castle",
     "en": "wizard",
-    "pl": "czarodziej",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
+    "pl": "czarodziej"
   },
   {
-    "id": "dragon-spell",
-    "en": "spell",
-    "pl": "zaklęcie",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-magical",
-    "en": "magical",
-    "pl": "magiczny",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-invitation",
-    "en": "invitation",
-    "pl": "zaproszenie",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
-  },
-  {
-    "id": "dragon-celebration",
-    "en": "celebration",
-    "pl": "świętowanie",
-    "world": "dragon",
-    "grade": 3,
-    "category": "dragon"
-  },
-  {
-    "id": "castle-discover",
-    "en": "discover",
-    "pl": "odkrywać",
-    "world": "castle",
+    "id": "castle-magic",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "magic",
+    "pl": "magia"
   },
   {
-    "id": "castle-improve",
-    "en": "improve",
-    "pl": "poprawiać",
-    "world": "castle",
+    "id": "castle-treasure",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "treasure",
+    "pl": "skarb"
   },
   {
-    "id": "castle-achieve",
-    "en": "achieve",
-    "pl": "osiągać",
-    "world": "castle",
+    "id": "castle-crown",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "crown",
+    "pl": "korona"
   },
   {
-    "id": "castle-decide",
-    "en": "decide",
-    "pl": "decydować",
-    "world": "castle",
+    "id": "castle-sword",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "sword",
+    "pl": "miecz"
   },
   {
-    "id": "castle-choose",
-    "en": "choose",
-    "pl": "wybierać",
-    "world": "castle",
+    "id": "castle-shield",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "shield",
+    "pl": "tarcza"
   },
   {
-    "id": "castle-compare",
-    "en": "compare",
-    "pl": "porównywać",
-    "world": "castle",
+    "id": "castle-horse",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "horse",
+    "pl": "koń"
   },
   {
-    "id": "castle-describe",
-    "en": "describe",
-    "pl": "opisywać",
-    "world": "castle",
+    "id": "castle-door",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "door",
+    "pl": "drzwi"
   },
   {
-    "id": "castle-explain",
-    "en": "explain",
-    "pl": "wyjaśniać",
-    "world": "castle",
+    "id": "castle-key",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "key",
+    "pl": "klucz"
   },
   {
-    "id": "castle-understand",
-    "en": "understand",
-    "pl": "rozumieć",
-    "world": "castle",
+    "id": "castle-garden",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "garden",
+    "pl": "ogród"
   },
   {
-    "id": "castle-imagine",
-    "en": "imagine",
-    "pl": "wyobrażać sobie",
-    "world": "castle",
+    "id": "castle-river",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "river",
+    "pl": "rzeka"
   },
   {
-    "id": "castle-create",
-    "en": "create",
-    "pl": "tworzyć",
-    "world": "castle",
+    "id": "castle-mountain",
     "grade": 1,
-    "category": "castle"
+    "world": "castle",
+    "en": "mountain",
+    "pl": "góra"
   },
   {
-    "id": "castle-collect",
-    "en": "collect",
-    "pl": "zbierać",
-    "world": "castle",
+    "id": "castle-forest",
     "grade": 1,
-    "category": "castle"
-  },
-  {
-    "id": "castle-protect",
-    "en": "protect",
-    "pl": "chronić",
     "world": "castle",
-    "grade": 2,
-    "category": "castle"
-  },
-  {
-    "id": "castle-recycle",
-    "en": "recycle",
-    "pl": "przetwarzać ponownie",
-    "world": "castle",
-    "grade": 2,
-    "category": "castle"
-  },
-  {
-    "id": "castle-solve",
-    "en": "solve",
-    "pl": "rozwiązywać",
-    "world": "castle",
-    "grade": 2,
-    "category": "castle"
-  },
-  {
-    "id": "castle-invent",
-    "en": "invent",
-    "pl": "wynaleźć",
-    "world": "castle",
-    "grade": 2,
-    "category": "castle"
-  },
-  {
-    "id": "castle-believe",
-    "en": "believe",
-    "pl": "wierzyć",
-    "world": "castle",
-    "grade": 2,
-    "category": "castle"
-  },
-  {
-    "id": "castle-encourage",
-    "en": "encourage",
-    "pl": "zachęcać",
-    "world": "castle",
-    "grade": 2,
-    "category": "castle"
-  },
-  {
-    "id": "castle-celebrate",
-    "en": "celebrate",
-    "pl": "świętować",
-    "world": "castle",
-    "grade": 2,
-    "category": "castle"
+    "en": "forest",
+    "pl": "las"
   },
   {
     "id": "castle-adventure",
+    "grade": 1,
+    "world": "castle",
     "en": "adventure",
-    "pl": "przygoda",
-    "world": "castle",
-    "grade": 2,
-    "category": "castle"
+    "pl": "przygoda"
   },
   {
-    "id": "castle-opportunity",
-    "en": "opportunity",
-    "pl": "okazja",
+    "id": "castle-friend",
+    "grade": 1,
     "world": "castle",
-    "grade": 2,
-    "category": "castle"
+    "en": "friend",
+    "pl": "przyjaciel"
   },
   {
-    "id": "castle-possibility",
-    "en": "possibility",
-    "pl": "możliwość",
+    "id": "castle-help",
+    "grade": 1,
     "world": "castle",
+    "en": "help",
+    "pl": "pomagać"
+  },
+  {
+    "id": "castle-find",
+    "grade": 1,
+    "world": "castle",
+    "en": "find",
+    "pl": "znaleźć"
+  },
+  {
+    "id": "castle-choose",
+    "grade": 1,
+    "world": "castle",
+    "en": "choose",
+    "pl": "wybrać"
+  },
+  {
+    "id": "castle-discover",
     "grade": 2,
-    "category": "castle"
+    "world": "castle",
+    "en": "discover",
+    "pl": "odkrywać"
+  },
+  {
+    "id": "castle-solve",
+    "grade": 2,
+    "world": "castle",
+    "en": "solve",
+    "pl": "rozwiązać"
+  },
+  {
+    "id": "castle-celebrate",
+    "grade": 2,
+    "world": "castle",
+    "en": "celebrate",
+    "pl": "świętować"
   },
   {
     "id": "castle-surprise",
-    "en": "surprise",
-    "pl": "niespodzianka",
-    "world": "castle",
     "grade": 2,
-    "category": "castle"
+    "world": "castle",
+    "en": "surprise",
+    "pl": "niespodzianka"
   },
   {
-    "id": "castle-imagination",
-    "en": "imagination",
-    "pl": "wyobraźnia",
-    "world": "castle",
+    "id": "castle-collect",
     "grade": 2,
-    "category": "castle"
+    "world": "castle",
+    "en": "collect",
+    "pl": "zbierać"
+  },
+  {
+    "id": "castle-protect",
+    "grade": 2,
+    "world": "castle",
+    "en": "protect",
+    "pl": "chronić"
+  },
+  {
+    "id": "castle-magical",
+    "grade": 2,
+    "world": "castle",
+    "en": "magical",
+    "pl": "magiczny"
+  },
+  {
+    "id": "castle-spell",
+    "grade": 2,
+    "world": "castle",
+    "en": "spell",
+    "pl": "zaklęcie"
+  },
+  {
+    "id": "castle-invitation",
+    "grade": 3,
+    "world": "castle",
+    "en": "invitation",
+    "pl": "zaproszenie"
   },
   {
     "id": "castle-friendship",
+    "grade": 3,
+    "world": "castle",
     "en": "friendship",
-    "pl": "przyjaźń",
-    "world": "castle",
-    "grade": 3,
-    "category": "castle"
+    "pl": "przyjaźń"
   },
   {
-    "id": "castle-adventure-story",
-    "en": "adventure story",
-    "pl": "opowieść przygodowa",
-    "world": "castle",
+    "id": "castle-journey",
     "grade": 3,
-    "category": "castle"
+    "world": "castle",
+    "en": "journey",
+    "pl": "podróż"
   },
   {
-    "id": "castle-teamwork",
-    "en": "teamwork",
-    "pl": "praca zespołowa",
-    "world": "castle",
+    "id": "castle-brave",
     "grade": 3,
-    "category": "castle"
+    "world": "castle",
+    "en": "brave",
+    "pl": "odważny"
   },
   {
-    "id": "castle-confidence",
-    "en": "confidence",
-    "pl": "pewność siebie",
-    "world": "castle",
+    "id": "castle-kingdom",
     "grade": 3,
-    "category": "castle"
-  },
-  {
-    "id": "castle-knowledge",
-    "en": "knowledge",
-    "pl": "wiedza",
     "world": "castle",
-    "grade": 3,
-    "category": "castle"
-  },
-  {
-    "id": "castle-creativity",
-    "en": "creativity",
-    "pl": "kreatywność",
-    "world": "castle",
-    "grade": 3,
-    "category": "castle"
-  },
-  {
-    "id": "castle-responsibility",
-    "en": "responsibility",
-    "pl": "odpowiedzialność",
-    "world": "castle",
-    "grade": 3,
-    "category": "castle"
-  },
-  {
-    "id": "castle-achievement",
-    "en": "achievement",
-    "pl": "osiągnięcie",
-    "world": "castle",
-    "grade": 3,
-    "category": "castle"
+    "en": "kingdom",
+    "pl": "królestwo"
   }
 ]
