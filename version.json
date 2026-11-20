@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "released": "2026-11-20",
-  "notes": "Planszowa mapa 10 krain, bohaterowie, powtórki 5/25 w sprawdzianach, Księga Skarbów i panel 25 tematów gramatycznych (bez nowych typów zadań)"
+  "notes": "Modułowy katalog krain i tematów, skalowalna mapa, księga, kontrole danych i powtórki; zadania nadal ze słówek."
 }

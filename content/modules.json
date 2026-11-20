@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "modules": [
+    {
+      "id": "vocabulary",
+      "type": "vocabulary",
+      "source": "../vocabulary.json",
+      "enabled": true
+    },
+    {
+      "id": "grammar",
+      "type": "grammar",
+      "source": "./grammar.json",
+      "enabled": false
+    }
+  ]
+}

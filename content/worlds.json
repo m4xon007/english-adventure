@@ -1,0 +1,122 @@
+[
+  {
+    "id": "forest",
+    "name": "Magiczny Las",
+    "emoji": "🌳",
+    "desc": "Zwierzęta i przyroda",
+    "hero": {
+      "emoji": "🦊",
+      "name": "Lisek Felek"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "food",
+    "name": "Smakowita Wioska",
+    "emoji": "🍓",
+    "desc": "Jedzenie i smaki",
+    "hero": {
+      "emoji": "👨‍🍳",
+      "name": "Kucharz Karmel"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "school",
+    "name": "Akademia Czarów",
+    "emoji": "🎒",
+    "desc": "Szkoła i nauka",
+    "hero": {
+      "emoji": "🧙‍♀️",
+      "name": "Czarodziejka Luna"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "home",
+    "name": "Domowe Królestwo",
+    "emoji": "🏡",
+    "desc": "Dom i rodzina",
+    "hero": {
+      "emoji": "🧸",
+      "name": "Miś Bruno"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "sports",
+    "name": "Sportowa Wyspa",
+    "emoji": "🏅",
+    "desc": "Sport i ruch",
+    "hero": {
+      "emoji": "🐯",
+      "name": "Tygrysek Leo"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "weather",
+    "name": "Pogodowa Dolina",
+    "emoji": "🌈",
+    "desc": "Pogoda i pory roku",
+    "hero": {
+      "emoji": "🦋",
+      "name": "Wróżka Tęcza"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "city",
+    "name": "Miasto Przygód",
+    "emoji": "🚂",
+    "desc": "Miasto i podróże",
+    "hero": {
+      "emoji": "🚂",
+      "name": "Konduktor Timi"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "space",
+    "name": "Kosmiczna Misja",
+    "emoji": "🚀",
+    "desc": "Czas i kosmos",
+    "hero": {
+      "emoji": "👩‍🚀",
+      "name": "Astronautka Maja"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "dragon",
+    "name": "Smocza Góra",
+    "emoji": "🐉",
+    "desc": "Emocje i przymiotniki",
+    "hero": {
+      "emoji": "🐲",
+      "name": "Smoczek Iskra"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  },
+  {
+    "id": "castle",
+    "name": "Zamek Mistrzów",
+    "emoji": "🏰",
+    "desc": "Wyzwania językowe",
+    "hero": {
+      "emoji": "👸",
+      "name": "Księżniczka Mira"
+    },
+    "stages": 4,
+    "recapQuestions": 5
+  }
+]

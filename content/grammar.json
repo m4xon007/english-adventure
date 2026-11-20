@@ -1,0 +1,152 @@
+[
+  {
+    "id": "be",
+    "name": "I am / You are / It is",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "my",
+    "name": "My / Your",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "this",
+    "name": "This is / It is",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "article",
+    "name": "A / An",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "plural",
+    "name": "Liczba mnoga -s",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "like",
+    "name": "I like / I don't like",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "what",
+    "name": "What / Who",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "commands",
+    "name": "Polecenia",
+    "suggestedGrade": 1,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "can",
+    "name": "Can / Can't",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "can-q",
+    "name": "Can you...?",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "have",
+    "name": "Have got / Haven't got",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "has",
+    "name": "Has got / Hasn't got",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "have-q",
+    "name": "Have you got...?",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "there",
+    "name": "There is / There are",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "prepositions",
+    "name": "In / On / Under / Next to",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "pronouns",
+    "name": "He / She / It + is",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "like-q",
+    "name": "Do you like...?",
+    "suggestedGrade": 2,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "present-i",
+    "name": "Present Simple – I / You / We",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "present-he",
+    "name": "Present Simple – He / She",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "dont",
+    "name": "Don't / Doesn't",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "does",
+    "name": "Do / Does",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "continuous",
+    "name": "Present Continuous",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "doing",
+    "name": "What are you doing?",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "how-many",
+    "name": "How many / How much",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  },
+  {
+    "id": "whose",
+    "name": "Whose / 's",
+    "suggestedGrade": 3,
+    "enabledInQuestionEngine": false
+  }
+]

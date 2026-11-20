@@ -1,4 +1,4 @@
-# English Adventure – Misja 25 🦄 — v1.3.0
+# English Adventure – Misja 25 🦄 — v1.4.0
 
 Gra edukacyjna PWA dla dzieci uczących się angielskiego (klasy 1–3), zoptymalizowana dla dzieci z co najmniej rokiem nauki.
 
@@ -70,17 +70,25 @@ Odkrywca: 18/25. Ekspert: 21/25. Mistrz: 22/25 oraz 18 poprawnych za pierwszym r
 Każda kraina ma cztery etapy: Odkrywca (18/25), Ekspert (21/25), Mistrz Krainy (22/25 i 18 bez błędu) oraz Wielki Sprawdzian (22/25 i 18 bez błędu za pierwszym razem, bez podpowiedzi). Sprawdzian dobiera 25 różnych słów ze słownika danej krainy, preferując zadania pisowni, słuchania i zdań. Dopiero zaliczenie sprawdzianu odblokowuje kolejną krainę. Profile, stare wyniki, naklejki i ukończone etapy 1–3 pozostają zachowane; przy 3/4 gracz przechodzi do sprawdzianu.
 
 
-## v1.3.0 — ciekawsze komentarze i rzadsza nagroda czasu
+## v1.4.0 — ciekawsze komentarze i rzadsza nagroda czasu
 - 140 komentarzy pozytywnych, 24 zachęt do drugiej próby, 23 komunikatów do powtórki. Nie powtarzamy ostatnich 12 komentarzy.
 - 240 różnych naklejek (emoji i warianty ozdobne), najpierw losujemy niezdobyte wzory.
 - Bonus +5 minut wyłącznie za Wielki Sprawdzian (25/25 poprawnych, minimum 20 za pierwszym razem bez podpowiedzi, zero użytych podpowiedzi), maksimum jedna nagroda w danej krainie oraz jedna dziennie.
 - Zwykły próg zaliczenia Wielkiego Sprawdzianu pozostaje bez zmian: 22/25 (88%) i 18 za pierwszym razem bez podpowiedzi.
 
 
-## v1.3.0 – gra planszowa i program nauki
+## v1.4.0 – gra planszowa i program nauki
 - Zachowano 10 krain jako interaktywną trasę na mapie; docelowo 12 po uzupełnieniu słownictwa.
 - W każdej krainie 4 etapy i postać do uratowania. Wielki Sprawdzian obejmuje do 5/25 pytań z poprzednich krain.
 - Pierwsze zaliczenie sprawdzianu i uratowanie postaci przyznaje informację o bonusie +5 min. Powtórne ukończenie tej samej krainy nie daje kolejnego bonusu.
 - Księga Skarbów grupuje naklejki wg krain i pokazuje uratowanych bohaterów.
 - Strefa rodzica zawiera 25 tematów gramatycznych z czterema statusami, osobno dla profilu. Zadania pozostają wyłącznie ze słówek.
 - Historyczne profile, punkty i odblokowane krainy pozostają zachowane.
+
+
+## v1.4.0 — rozszerzalne krainy
+- Krainy i bohaterowie w `content/worlds.json`: można dodać następny rozdział z własną postacią, pod warunkiem uzupełnienia minimum 25 słówek z `grade: 1` i tym samym `world` w `vocabulary.json`.
+- Księga, mapa, liczniki i odblokowania rosną automatycznie; poprzednie postępy nie są zerowane.
+- Gramatyka w `content/grammar.json`: 25 tematów, statusy osobno dla profilu. `content/modules.json`: rejestr na przyszłość. Na razie pytania tylko ze słówek.
+- Do 20% pytań Wielkiego Sprawdzianu przypomina poprzednie krainy.
+- TypeScript/Vite i generowanie zadań gramatycznych pozostają osobnym etapem.
